@@ -8,6 +8,7 @@
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-Ram0n&show_icons=true&theme=onedark)
 
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"></br>
@@ -19,5 +20,7 @@
     <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div><br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Ram0n&size_weight=0.5&count_weight=0.5)
 
 Apaixonado por tecnologia e focado em evoluir!
