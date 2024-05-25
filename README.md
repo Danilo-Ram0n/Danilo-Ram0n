@@ -1,5 +1,5 @@
 
-### Olá! Eu sou Danilo 😀
+### Hi! I'm Danilo 😀
 ### Técnico em Análise e Desenvolvimento de Sistemas🎓
 ### Graduando em Análise e Desenvolvimento de Sistemas (tecnólogo) 🔍
 
